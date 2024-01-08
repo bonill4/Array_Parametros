@@ -1,0 +1,15 @@
+C:\Users\willi\source\repos\Array_Parametros\bin\Debug\Array_Parametros.exe.config
+C:\Users\willi\source\repos\Array_Parametros\bin\Debug\Array_Parametros.exe
+C:\Users\willi\source\repos\Array_Parametros\bin\Debug\Array_Parametros.pdb
+C:\Users\willi\source\repos\Array_Parametros\obj\Debug\Array_Parametros.csproj.AssemblyReference.cache
+C:\Users\willi\source\repos\Array_Parametros\obj\Debug\Array_Parametros.csproj.SuggestedBindingRedirects.cache
+C:\Users\willi\source\repos\Array_Parametros\obj\Debug\Array_Parametros.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\Array_Parametros\obj\Debug\Array_Parametros.exe
+C:\Users\willi\source\repos\Array_Parametros\obj\Debug\Array_Parametros.pdb
+C:\Users\willi\Documents\C#\Array_Parametros\bin\Debug\Array_Parametros.exe.config
+C:\Users\willi\Documents\C#\Array_Parametros\bin\Debug\Array_Parametros.exe
+C:\Users\willi\Documents\C#\Array_Parametros\bin\Debug\Array_Parametros.pdb
+C:\Users\willi\Documents\C#\Array_Parametros\obj\Debug\Array_Parametros.csproj.AssemblyReference.cache
+C:\Users\willi\Documents\C#\Array_Parametros\obj\Debug\Array_Parametros.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\C#\Array_Parametros\obj\Debug\Array_Parametros.exe
+C:\Users\willi\Documents\C#\Array_Parametros\obj\Debug\Array_Parametros.pdb
